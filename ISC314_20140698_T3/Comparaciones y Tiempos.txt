@@ -1,0 +1,11 @@
+Usando el primer elemento de pivote :
+162085
+Tiempo -82 ms
+
+Usando el ultimo elemento de pivote :
+164123
+Tiempo -25 ms
+
+Usando la mediana de tres :
+138382
+Tiempo -17 ms
